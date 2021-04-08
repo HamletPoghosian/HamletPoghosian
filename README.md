@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 accesskey="A"
+      align="center"
+      dir="ltr"
+      itemprop="heading"
+      lang="en-US"
+      tabindex="2"
+      title="Example heading">
+ Hi 👋, I'm Hamlet Poghosian  </h1>
 
-<!--
-**HamletPoghosian/HamletPoghosian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 accesskey="A"
+      align="center"
+      dir="ltr"
+      itemprop="heading"
+      lang="en-US"
+      tabindex="2"
+      title="Example heading">
+ Software Engineer from Armenia :computer:
+ </h2>
+ 
+ 
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=HamletPoghosian)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![trophy](https://github-readme-stats.vercel.app/api?username=HamletPoghosian&show_icons=true)
+
+![trophy](https://github-readme-stats.vercel.app/api/top-langs?username=HamletPoghosian&show_icons=true&locale=en&layout=compact)
+
+
+
+- 🔭 I’m currently working on as a .Net Developer 
+- 🌱 I’m currently learning Python
