@@ -5,7 +5,7 @@
       lang="en-US"
       tabindex="2"
       title="Example heading">
- Hi 👋, I'm Hamlet Poghosian  </h1>
+ Hi 👋, I'm Hamlet Poghosyan  </h1>
 
 <h2 accesskey="A"
       align="center"
