@@ -18,7 +18,16 @@
  Software Engineer from Armenia :computer:
  </h2>
   
+<h2 accesskey="A"
+      align="center"
+      dir="ltr"
+      itemprop="heading"
+      lang="en-US"
+      tabindex="2"
+      title="Example heading">
 # We are going to be higher and higher🚀  
+ </h2>  
+
  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HamletPoghosian)](https://github.com/ryo-ma/github-profile-trophy)
