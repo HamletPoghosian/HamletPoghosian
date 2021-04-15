@@ -18,8 +18,11 @@
  Software Engineer from Armenia :computer:
  </h2>
   
+__________
 
 ![Developer](https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true)
+
+__________
 
 <h2 accesskey="A"
       align="center"
