@@ -16,7 +16,7 @@ __________
       lang="en-US"
       tabindex="2"
       title="Example heading">
- Software Engineer from Armenia :computer:
+ Software Developer from Armenia :computer:
  </h2>
   
 __________
