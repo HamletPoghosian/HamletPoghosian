@@ -25,17 +25,6 @@ __________
 
 ![Developer](https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true)
 __________
-
-<h2 accesskey="A"
-      align="center"
-      dir="ltr"
-      itemprop="heading"
-      lang="en-US"
-      tabindex="2"
-      title="Example heading">
- We are going to be higher and higher🚀:technologist:  
- </h2>  
- 
 __________
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HamletPoghosian)](https://github.com/ryo-ma/github-profile-trophy)
