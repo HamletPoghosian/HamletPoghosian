@@ -1,4 +1,4 @@
-
+![Arm](https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/AM@2x.png?raw=true)
 <h1 accesskey="A"
       align="center"
       dir="ltr"
@@ -6,7 +6,7 @@
       lang="en-US"
       tabindex="2"
       title="Example heading">
- Hi 👋,🇦🇲 I'm Hamlet Poghosyan   :rocket: </h1> 
+ Hi 🤟 ,  I'm Hamlet Poghosyan   :rocket: </h1> 
 
 <h2 accesskey="A"
       align="center"
