@@ -20,7 +20,7 @@
 
 ![Developer](https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HamletPoghosian)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=HamletPoghosian)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ![trophy](https://github-readme-stats.vercel.app/api?username=HamletPoghosian&show_icons=true)
 
